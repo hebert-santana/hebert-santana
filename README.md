@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h4>Sou um estudante de Full-Stack que reside em Minas Gerais, Brasil.</h4>
+<h4>Sou um estudante de Full-Stack que reside em Minas Gerais, Brasil.</h4> 🇧🇷
 
 <h1 align="center">Hebert Santana</h1>
 
