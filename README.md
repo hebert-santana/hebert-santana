@@ -26,10 +26,10 @@ Na graduação tive meus primeiros contatos com Pascal, MatLab, SciLab, C++ e ou
 </div><br/>
 <hr>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hebert-santana&layout=compact&theme=gotham)](https://github.com/hebert-santana/github-readme-stats)
+ [![Top Langs](https://github.com/hebert-santana/github-readme-stats)
 
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hebert-santana&theme=gotham&show_icons=true&hide=contribs,prs)
+ ![Anurag's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue)
   
   <hr>
   
