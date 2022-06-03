@@ -38,7 +38,10 @@ Na graduação tive meus primeiros contatos com Pascal, MatLab, SciLab, C++ e ou
   
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hebert-santana&repo=contador-de-pixels&theme=gotham&show_owner=true)](https://github.com/hebert-santana/contador-de-pixels)
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hebert-santana&repo=first_bootstrap_page&theme=gotham&show_owner=true)](https://github.com/hebert-santana/contador-de-pixels)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hebert-santana&repo=first_bootstrap_page&theme=gotham&show_owner=true)](https://github.com/hebert-santana/first_bootstrap_page)
+  
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hebert-santana&repo=bootstrap_sales_page&theme=gotham&show_owner=true)](https://hebert-santana.github.io/bootstrap_sales_page/)
+
   
   <hr>
   
