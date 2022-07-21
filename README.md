@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-<h4>Sou um estudante de Full-Stack que reside em Minas Gerais, Brasil.</h4> 
+<h4>Sou um estudante de programação que reside em Minas Gerais, Brasil.</h4> 
 
 <h1 align="center">:purple_circle: Hebert Santana :purple_circle:</h1>
 
 
 ## About me: (🔒⌛)
 
-Na graduação tive meus primeiros contatos com Pascal, MatLab, SciLab, C++ e outras linguagens e softwares. Atualmente estou estudando front-end (HTML, CSS) e back-end (JS, e alguns frameworks como NodeJs e Ruby On Rails) para me desenvolver cada vez mais como programador.
+Na graduação tive meus primeiros contatos com Pascal, MatLab, SciLab, C++ e outras linguagens e softwares. Atualmente estou estudando front-end e back-end para me desenvolver cada vez mais como programador.
 
 <div>
   <a href="https://github.com/hebert-santana">
