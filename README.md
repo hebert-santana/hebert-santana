@@ -44,8 +44,11 @@
 
 <!--START_SECTION:stats-->
 ### 👨🏻‍💻 GitHub Stats
-![Hebert's GitHub stats](https://github-readme-stats.vercel.app/api?username=hebert-santana&show_icons=true&theme=dark&hide=prs,issues,contribs)
+[![Hebert's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@hebert&theme=transparent&hide=yml&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Hebert's GitHub stats](https://github-readme-stats.vercel.app/api?username=hebert-santana&show_icons=true&theme=transparent&hide=prs,issues,contribs)
 <!--END_SECTION:stats-->
+
 
 
 
