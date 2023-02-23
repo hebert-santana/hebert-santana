@@ -34,20 +34,20 @@
 
 ---
 
-<!--START_SECTION:spotify-->
-### 🎧 Spotify Playing
- 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z09zgzc1f80haqa8htymyoayo&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=z09zgzc1f80haqa8htymyoayo&redirect=true)  
-<!--END_SECTION:spotify-->
-
----
-
 <!--START_SECTION:stats-->
 ### 👨🏻‍💻 GitHub Stats
 [![Hebert's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@hebert&theme=transparent&hide=yml&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Hebert's GitHub stats](https://github-readme-stats.vercel.app/api?username=hebert-santana&show_icons=true&theme=transparent&hide=prs,issues,contribs)
 <!--END_SECTION:stats-->
+
+---
+
+<!--START_SECTION:spotify-->
+### 🎧 Spotify Playing
+ 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z09zgzc1f80haqa8htymyoayo&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=z09zgzc1f80haqa8htymyoayo&redirect=true)  
+<!--END_SECTION:spotify-->
 
 
 
