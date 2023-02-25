@@ -36,7 +36,7 @@
 
 <!--START_SECTION:stats-->
 ### 👨🏻‍💻 GitHub Stats
-[![Hebert's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@hebert&theme=transparent&hide=yml&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Hebert's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hebert&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 
 ![Hebert's GitHub stats](https://github-readme-stats.vercel.app/api?username=hebert-santana&show_icons=true&theme=transparent&hide=prs,issues,contribs)
 <!--END_SECTION:stats-->
