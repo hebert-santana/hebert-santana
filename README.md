@@ -4,6 +4,9 @@
 <a href="mailto:hebert.fsantana@gmail.com">
   <img align="left" alt="Hebert Santana | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
+<a href="https://www.kaggle.com/hebertsantana">
+  <img align="left" alt="Hebert Santana | Kaagle" width="22px" src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" />
+</a>
 <a href="https://www.linkedin.com/in/hebert-santana/">
   <img align="left" alt="Hebert Santana | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
