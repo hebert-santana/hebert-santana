@@ -1,6 +1,11 @@
 ### Hi there, I'm Hebert Santana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
+I am a data enthusiast with a passion for mathematics, statistics, and programming. I love learning and exploring new technologies, and I'm always striving to improve my skills.
+
 <!--START_SECTION:contato-->
+### 📫 How to reach me:
+
+
 <a href="mailto:hebert.fsantana@gmail.com">
   <img align="left" alt="Hebert Santana | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
@@ -23,16 +28,12 @@
 ---
 
 <!--START_SECTION:formacao-->
-### 🎓 Formação e Cursos 🎓
+### 🎓 Education and Certifications:
 
-* Graduação em Matemática (UFMG)
-* Estudante de Data Science (Data Science Academy, Coursera, Alura)
-
-#### Certificações :white_check_mark:
-
-- [Certificado Profissional Análise de Dados](https://www.coursera.org/account/accomplishments/professional-cert/FGJ46KJEMQLF) - by Google
-
-- [Python para Data Science](https://cursos.alura.com.br/degree/certificate/11cf7e15-0540-4baa-9788-cca17d17b56b) & [Data Analysis com Google Sheets](https://cursos.alura.com.br/degree/certificate/a952a1e6-cdda-40da-a2f6-a1ed75d2a107) - by Alura
+* Bachelor's degree in Mathematics (UFMG)
+* Data Science student (Data Science Academy, Coursera, Alura)
+* [Certificado Profissional Análise de Dados](https://www.coursera.org/account/accomplishments/professional-cert/FGJ46KJEMQLF) - by Google
+* [Python para Data Science](https://cursos.alura.com.br/degree/certificate/11cf7e15-0540-4baa-9788-cca17d17b56b) & [Data Analysis com Google Sheets](https://cursos.alura.com.br/degree/certificate/a952a1e6-cdda-40da-a2f6-a1ed75d2a107) - by Alura
 <!--END_SECTION:formacao-->
 
 ---
