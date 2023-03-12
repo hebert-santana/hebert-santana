@@ -4,7 +4,7 @@ I am a data enthusiast with a passion for mathematics, statistics, and programmi
 
 <!--START_SECTION:contato-->
 ### 📫 How to reach me:
-
+<br>
 
 <a href="mailto:hebert.fsantana@gmail.com">
   <img align="left" alt="Hebert Santana | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
