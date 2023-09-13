@@ -12,9 +12,7 @@ I am a data enthusiast with a passion for mathematics, statistics, and programmi
 <a href="https://www.kaggle.com/hebertsantana">
   <img align="left" alt="Hebert Santana | Kaagle" width="22px" src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" />
 </a>
-<a href="https://www.linkedin.com/in/hebert-santana/">
-  <img align="left" alt="Hebert Santana | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 <a href="https://www.instagram.com/hebert_santanna">
   <img align="left" alt="Hebert Santana | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
 </a>
